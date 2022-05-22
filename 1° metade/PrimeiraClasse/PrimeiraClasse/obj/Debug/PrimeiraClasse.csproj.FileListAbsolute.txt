@@ -1,0 +1,6 @@
+C:\Users\2014070036\Documents\Trabalhos Programação\PrimeiraClasse\PrimeiraClasse\bin\Debug\PrimeiraClasse.exe.config
+C:\Users\2014070036\Documents\Trabalhos Programação\PrimeiraClasse\PrimeiraClasse\obj\Debug\PrimeiraClasse.csprojResolveAssemblyReference.cache
+C:\Users\2014070036\Documents\Trabalhos Programação\PrimeiraClasse\PrimeiraClasse\bin\Debug\PrimeiraClasse.exe
+C:\Users\2014070036\Documents\Trabalhos Programação\PrimeiraClasse\PrimeiraClasse\bin\Debug\PrimeiraClasse.pdb
+C:\Users\2014070036\Documents\Trabalhos Programação\PrimeiraClasse\PrimeiraClasse\obj\Debug\PrimeiraClasse.exe
+C:\Users\2014070036\Documents\Trabalhos Programação\PrimeiraClasse\PrimeiraClasse\obj\Debug\PrimeiraClasse.pdb

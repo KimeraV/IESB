@@ -1,0 +1,7 @@
+C:\Users\2014070036\Documents\Trabalhos Programação\PilhaEstática\PilhaEstática\bin\Debug\PilhaEstática.exe.config
+C:\Users\2014070036\Documents\Trabalhos Programação\PilhaEstática\PilhaEstática\bin\Debug\PilhaEstática.exe
+C:\Users\2014070036\Documents\Trabalhos Programação\PilhaEstática\PilhaEstática\bin\Debug\PilhaEstática.pdb
+C:\Users\2014070036\Documents\Trabalhos Programação\PilhaEstática\PilhaEstática\obj\Debug\PilhaEstática.exe
+C:\Users\2014070036\Documents\Trabalhos Programação\PilhaEstática\PilhaEstática\obj\Debug\PilhaEstática.pdb
+C:\Users\2014070036\Documents\Trabalhos Programação\PilhaEstática\PilhaEstática\obj\Debug\PilhaEstática.csproj.AssemblyReference.cache
+C:\Users\2014070036\Documents\Trabalhos Programação\PilhaEstática\PilhaEstática\obj\Debug\PilhaEstática.csproj.CoreCompileInputs.cache

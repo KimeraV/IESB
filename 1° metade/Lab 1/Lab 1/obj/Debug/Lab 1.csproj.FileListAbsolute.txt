@@ -1,0 +1,6 @@
+C:\Users\2014070036\Documents\Trabalhos Programação\Lab 1\Lab 1\bin\Debug\Lab 1.exe.config
+C:\Users\2014070036\Documents\Trabalhos Programação\Lab 1\Lab 1\bin\Debug\Lab 1.exe
+C:\Users\2014070036\Documents\Trabalhos Programação\Lab 1\Lab 1\bin\Debug\Lab 1.pdb
+C:\Users\2014070036\Documents\Trabalhos Programação\Lab 1\Lab 1\obj\Debug\Lab 1.csprojResolveAssemblyReference.cache
+C:\Users\2014070036\Documents\Trabalhos Programação\Lab 1\Lab 1\obj\Debug\Lab 1.exe
+C:\Users\2014070036\Documents\Trabalhos Programação\Lab 1\Lab 1\obj\Debug\Lab 1.pdb

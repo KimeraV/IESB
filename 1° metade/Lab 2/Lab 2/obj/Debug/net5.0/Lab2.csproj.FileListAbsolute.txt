@@ -1,0 +1,16 @@
+D:\Documentos\GitHub\Orientação a Objetos\Trabalhos\Lab 2\Lab 2\bin\Debug\net5.0\Lab2.exe
+D:\Documentos\GitHub\Orientação a Objetos\Trabalhos\Lab 2\Lab 2\bin\Debug\net5.0\Lab2.deps.json
+D:\Documentos\GitHub\Orientação a Objetos\Trabalhos\Lab 2\Lab 2\bin\Debug\net5.0\Lab2.runtimeconfig.json
+D:\Documentos\GitHub\Orientação a Objetos\Trabalhos\Lab 2\Lab 2\bin\Debug\net5.0\Lab2.runtimeconfig.dev.json
+D:\Documentos\GitHub\Orientação a Objetos\Trabalhos\Lab 2\Lab 2\bin\Debug\net5.0\Lab2.dll
+D:\Documentos\GitHub\Orientação a Objetos\Trabalhos\Lab 2\Lab 2\bin\Debug\net5.0\ref\Lab2.dll
+D:\Documentos\GitHub\Orientação a Objetos\Trabalhos\Lab 2\Lab 2\bin\Debug\net5.0\Lab2.pdb
+D:\Documentos\GitHub\Orientação a Objetos\Trabalhos\Lab 2\Lab 2\obj\Debug\net5.0\Lab2.csproj.AssemblyReference.cache
+D:\Documentos\GitHub\Orientação a Objetos\Trabalhos\Lab 2\Lab 2\obj\Debug\net5.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\GitHub\Orientação a Objetos\Trabalhos\Lab 2\Lab 2\obj\Debug\net5.0\Lab2.AssemblyInfoInputs.cache
+D:\Documentos\GitHub\Orientação a Objetos\Trabalhos\Lab 2\Lab 2\obj\Debug\net5.0\Lab2.AssemblyInfo.cs
+D:\Documentos\GitHub\Orientação a Objetos\Trabalhos\Lab 2\Lab 2\obj\Debug\net5.0\Lab2.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\Orientação a Objetos\Trabalhos\Lab 2\Lab 2\obj\Debug\net5.0\Lab2.dll
+D:\Documentos\GitHub\Orientação a Objetos\Trabalhos\Lab 2\Lab 2\obj\Debug\net5.0\ref\Lab2.dll
+D:\Documentos\GitHub\Orientação a Objetos\Trabalhos\Lab 2\Lab 2\obj\Debug\net5.0\Lab2.pdb
+D:\Documentos\GitHub\Orientação a Objetos\Trabalhos\Lab 2\Lab 2\obj\Debug\net5.0\Lab2.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+C:\Users\2014070036\Documents\Trabalhos Programação\Herança Humano\Herança Humano\bin\Debug\Herança Humano.exe.config
+C:\Users\2014070036\Documents\Trabalhos Programação\Herança Humano\Herança Humano\bin\Debug\Herança Humano.exe
+C:\Users\2014070036\Documents\Trabalhos Programação\Herança Humano\Herança Humano\bin\Debug\Herança Humano.pdb
+C:\Users\2014070036\Documents\Trabalhos Programação\Herança Humano\Herança Humano\obj\Debug\Herança Humano.csprojResolveAssemblyReference.cache
+C:\Users\2014070036\Documents\Trabalhos Programação\Herança Humano\Herança Humano\obj\Debug\Herança Humano.exe
+C:\Users\2014070036\Documents\Trabalhos Programação\Herança Humano\Herança Humano\obj\Debug\Herança Humano.pdb

@@ -1,0 +1,16 @@
+D:\Documentos\GitHub\IESB\Exercicio Arquivos\bin\Debug\net5.0\Exercicio Arquivos.exe
+D:\Documentos\GitHub\IESB\Exercicio Arquivos\bin\Debug\net5.0\Exercicio Arquivos.deps.json
+D:\Documentos\GitHub\IESB\Exercicio Arquivos\bin\Debug\net5.0\Exercicio Arquivos.runtimeconfig.json
+D:\Documentos\GitHub\IESB\Exercicio Arquivos\bin\Debug\net5.0\Exercicio Arquivos.runtimeconfig.dev.json
+D:\Documentos\GitHub\IESB\Exercicio Arquivos\bin\Debug\net5.0\Exercicio Arquivos.dll
+D:\Documentos\GitHub\IESB\Exercicio Arquivos\bin\Debug\net5.0\ref\Exercicio Arquivos.dll
+D:\Documentos\GitHub\IESB\Exercicio Arquivos\bin\Debug\net5.0\Exercicio Arquivos.pdb
+D:\Documentos\GitHub\IESB\Exercicio Arquivos\obj\Debug\net5.0\Exercicio Arquivos.csproj.AssemblyReference.cache
+D:\Documentos\GitHub\IESB\Exercicio Arquivos\obj\Debug\net5.0\Exercicio Arquivos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\GitHub\IESB\Exercicio Arquivos\obj\Debug\net5.0\Exercicio Arquivos.AssemblyInfoInputs.cache
+D:\Documentos\GitHub\IESB\Exercicio Arquivos\obj\Debug\net5.0\Exercicio Arquivos.AssemblyInfo.cs
+D:\Documentos\GitHub\IESB\Exercicio Arquivos\obj\Debug\net5.0\Exercicio Arquivos.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\IESB\Exercicio Arquivos\obj\Debug\net5.0\Exercicio Arquivos.dll
+D:\Documentos\GitHub\IESB\Exercicio Arquivos\obj\Debug\net5.0\ref\Exercicio Arquivos.dll
+D:\Documentos\GitHub\IESB\Exercicio Arquivos\obj\Debug\net5.0\Exercicio Arquivos.pdb
+D:\Documentos\GitHub\IESB\Exercicio Arquivos\obj\Debug\net5.0\Exercicio Arquivos.genruntimeconfig.cache
