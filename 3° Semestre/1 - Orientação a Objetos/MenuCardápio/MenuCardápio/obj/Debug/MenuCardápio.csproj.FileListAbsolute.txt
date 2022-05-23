@@ -1,0 +1,6 @@
+C:\Users\2014070036\Documents\Trabalhos Programação\MenuCardápio\MenuCardápio\bin\Debug\MenuCardápio.exe.config
+C:\Users\2014070036\Documents\Trabalhos Programação\MenuCardápio\MenuCardápio\bin\Debug\MenuCardápio.exe
+C:\Users\2014070036\Documents\Trabalhos Programação\MenuCardápio\MenuCardápio\bin\Debug\MenuCardápio.pdb
+C:\Users\2014070036\Documents\Trabalhos Programação\MenuCardápio\MenuCardápio\obj\Debug\MenuCardápio.csprojResolveAssemblyReference.cache
+C:\Users\2014070036\Documents\Trabalhos Programação\MenuCardápio\MenuCardápio\obj\Debug\MenuCardápio.exe
+C:\Users\2014070036\Documents\Trabalhos Programação\MenuCardápio\MenuCardápio\obj\Debug\MenuCardápio.pdb
