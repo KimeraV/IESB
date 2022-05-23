@@ -1,0 +1,16 @@
+D:\Documentos\GitHub\IESB\3° Semestre\2 - Estrutura de Dados\Lista 1\Questão 4\bin\Debug\net5.0\Questão 4.exe
+D:\Documentos\GitHub\IESB\3° Semestre\2 - Estrutura de Dados\Lista 1\Questão 4\bin\Debug\net5.0\Questão 4.deps.json
+D:\Documentos\GitHub\IESB\3° Semestre\2 - Estrutura de Dados\Lista 1\Questão 4\bin\Debug\net5.0\Questão 4.runtimeconfig.json
+D:\Documentos\GitHub\IESB\3° Semestre\2 - Estrutura de Dados\Lista 1\Questão 4\bin\Debug\net5.0\Questão 4.runtimeconfig.dev.json
+D:\Documentos\GitHub\IESB\3° Semestre\2 - Estrutura de Dados\Lista 1\Questão 4\bin\Debug\net5.0\Questão 4.dll
+D:\Documentos\GitHub\IESB\3° Semestre\2 - Estrutura de Dados\Lista 1\Questão 4\bin\Debug\net5.0\ref\Questão 4.dll
+D:\Documentos\GitHub\IESB\3° Semestre\2 - Estrutura de Dados\Lista 1\Questão 4\bin\Debug\net5.0\Questão 4.pdb
+D:\Documentos\GitHub\IESB\3° Semestre\2 - Estrutura de Dados\Lista 1\Questão 4\obj\Debug\net5.0\Questão 4.csproj.AssemblyReference.cache
+D:\Documentos\GitHub\IESB\3° Semestre\2 - Estrutura de Dados\Lista 1\Questão 4\obj\Debug\net5.0\Questão 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\GitHub\IESB\3° Semestre\2 - Estrutura de Dados\Lista 1\Questão 4\obj\Debug\net5.0\Questão 4.AssemblyInfoInputs.cache
+D:\Documentos\GitHub\IESB\3° Semestre\2 - Estrutura de Dados\Lista 1\Questão 4\obj\Debug\net5.0\Questão 4.AssemblyInfo.cs
+D:\Documentos\GitHub\IESB\3° Semestre\2 - Estrutura de Dados\Lista 1\Questão 4\obj\Debug\net5.0\Questão 4.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\IESB\3° Semestre\2 - Estrutura de Dados\Lista 1\Questão 4\obj\Debug\net5.0\Questão 4.dll
+D:\Documentos\GitHub\IESB\3° Semestre\2 - Estrutura de Dados\Lista 1\Questão 4\obj\Debug\net5.0\ref\Questão 4.dll
+D:\Documentos\GitHub\IESB\3° Semestre\2 - Estrutura de Dados\Lista 1\Questão 4\obj\Debug\net5.0\Questão 4.pdb
+D:\Documentos\GitHub\IESB\3° Semestre\2 - Estrutura de Dados\Lista 1\Questão 4\obj\Debug\net5.0\Questão 4.genruntimeconfig.cache
