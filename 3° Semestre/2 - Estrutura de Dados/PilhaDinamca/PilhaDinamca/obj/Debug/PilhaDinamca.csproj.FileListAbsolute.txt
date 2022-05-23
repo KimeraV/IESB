@@ -1,1 +1,2 @@
 C:\Users\2014070036\Documents\Trabalhos Programação\PilhaDinamca\PilhaDinamca\bin\Debug\PilhaDinamca.exe.config
+C:\Users\2014070036\Documents\GitHub\IESB\3° Semestre\2 - Estrutura de Dados\PilhaDinamca\PilhaDinamca\bin\Debug\PilhaDinamca.exe.config

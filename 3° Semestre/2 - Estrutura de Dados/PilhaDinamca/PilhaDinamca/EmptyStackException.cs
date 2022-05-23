@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace PilhaDinamca
 {
-    class Program
+    class EmptyStackException : ApplicationException
     {
-        static void Main(string[] args)
+        public EmptyStackException(string message) : base(message)
         {
-            PilhaDinamica primeiraPilha = new PilhaDinamica();
+            
         }
     }
 }
