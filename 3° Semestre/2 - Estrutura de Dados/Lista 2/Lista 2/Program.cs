@@ -32,6 +32,8 @@ namespace Lista_2
             arvore.PreOrder(arvore.Raiz, listaDeValores);
             Console.WriteLine("------------------------------");
             arvore.InOrder(arvore.Raiz);
+            Console.WriteLine("------------------------------");
+            arvore.ArvoreCount();
             Console.ReadKey();
         }
     }
